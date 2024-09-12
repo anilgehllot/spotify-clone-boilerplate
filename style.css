@@ -1,0 +1,59 @@
+.spotify{
+    display: flex;
+}
+.spotify1{
+    flex: 1;
+    background-color: black;
+    color: aliceblue;
+    height: 900px;
+    max-width: 300px;
+}
+.spotify3{
+    flex: 3;
+    border: 2px solid transparent ;
+    color: antiquewhite;
+    /* min-width: 1000px; */
+}
+.home{
+    display: flex;
+    margin-left: 20px;
+}
+.search{
+    display: flex;
+    margin-left: 20px;
+}
+.library{
+    display: flex;
+    margin-left: 20px;
+}
+.playlist{
+    display: flex;
+    margin-left: 20px;
+}
+.liked{
+    display: flex;
+    margin-left: 20px;
+}
+.episode{
+    display: flex;
+    margin-left: 20px;
+}
+.good{
+    margin-top: 50px;
+    margin-left: 100px;
+
+}
+.box1{
+    border: 2px solid transparent;
+    background-color: lightgrey;
+    color: beige;
+    height: 50px;
+    width: 200px;
+    
+}
+.ls{
+    display: flex;
+}
+.ns{
+    display: flex;
+}
